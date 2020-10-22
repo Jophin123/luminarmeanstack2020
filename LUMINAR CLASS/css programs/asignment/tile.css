@@ -1,0 +1,29 @@
+.table{
+    margin-left: 10%;
+
+}
+td{
+    height: 400px;
+    padding:100px;
+    border: 6px solid white;
+    
+}
+#one{
+    background-color: green;
+}
+#two{
+    background-color: blue;
+}
+#three{
+    background-color:yellow;
+}
+#four{
+    background-color: violet;
+}
+#five{
+    background-color:firebrick;
+}
+h1{
+    font-family: 'Lora', serif;
+    margin-left: 13%;
+}

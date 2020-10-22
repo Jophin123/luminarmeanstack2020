@@ -1,0 +1,122 @@
+#header{
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    background-color: rgb(81, 87, 82);
+    color: white;
+}
+#image{
+    width: 150px;
+    height: :150px;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:20px;
+}
+#name{
+    margin-top: 50px;
+    letter-spacing: .5em;
+    font-weight: bold;
+}
+#des{
+    letter-spacing: .2em;
+    margin-top:50px ;
+}
+#underline {
+    width: 450;
+    height: 5px;
+    background-color:rgb(225, 235, 232) ;
+    margin-top: 20px;
+}
+#career{
+    width: 1010px;
+    height: 50px;
+    background-color: rgb(182, 204, 186);
+    padding-top: 10px;
+}
+#wrapper{
+    margin-top: 50px;
+    padding: 0px;
+}
+#cpara{
+    font-size: 20px;
+}
+#qualification{
+    width: 1010px;
+    height: 50px;
+    background-color: rgb(182, 204, 186);
+    padding-top: 10px;
+}
+#qdetails{
+    font-size: 20px;
+
+}
+#pskill{
+    font-size: 20px;
+
+}
+#skill{
+    width: 1010px;
+    height: 50px;
+    background-color: rgb(182, 204, 186);
+    padding-top: 10px;
+
+}
+#strenth{
+    font-size: 20px;
+
+}
+#sdetails{
+    width: 1010px;
+    height: 50px;
+    background-color: rgb(182, 204, 186);
+    padding-top: 10px;
+
+
+}
+#achievement{
+
+font-size: 20px;
+}
+#dachieve{
+    width: 1010px;
+    height: 50px;
+    background-color: rgb(182, 204, 186);
+    padding-top: 10px;
+
+
+}
+#personal{
+    font-size: 20px;
+
+}
+#dpersonal{
+    width: 1010px;
+    height: 50px;
+    background-color: rgb(182, 204, 186);
+    padding-top: 10px;
+
+
+}
+#name2{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+#d{
+    margin-left: 30PX;
+    font-size: 20px;
+}
+#dec{
+    font size: 20px;
+}
+#dedetails{
+    width: 1010px;
+    height: 50px;
+    background-color: rgb(182, 204, 186);
+    padding-top: 10px;
+
+
+}
+#dd{
+    font size: 20px;
+
+}
